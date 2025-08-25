@@ -2,6 +2,7 @@ import os
 import sys
 from decoder import *
 
+
 plant_uml_path = os.path.join(os.getcwd(), "plant_uml_exc")
 plant_uml_version = "plantuml-1.2025.2.jar"
 
